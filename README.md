@@ -18,41 +18,35 @@
 > General
 <table width='100%'>
   <tr>
-    <td align="center" width="110" height="90">
+    <td align="center" width="90" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="javascript" />
       </a>
       <br>React
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="90" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="typescript" />
       </a>
       <br>TypeScript
     </td>
-        <td align="center" width="110" height="90">
+        <td align="center" width="90" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Html5" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="90" height="90">
       <a href="#souh" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="50" height="50" alt="figma" />
       </a>
       <br>figma
     </td>
-     <td align="center" width="110" height="90"> 
+     <td align="center" width="90" height="90"> 
       <a href="#souh" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" alt="github" />
       </a>
       <br>github
     </td>
-   <td align="center" width="130" height="110"> 
-      <a href="#souh" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" alt="github" />
-      </a>
-      <br>Next.js
-   </td>  
   </tr> 
 </table>
