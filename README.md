@@ -91,32 +91,13 @@
       </a>
       <br>Zustand
     </td>
-    <td align="center" width="130" height="90">
-      <a href="#souh">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="typescript" />
-      </a>
-      <p>Tailwind
-    </td>
-   <td align="center"  width="96">
+   <td align="center"  width="130">
       <a href="souh">
         <img src="https://github.com/TanStack/query/blob/main/media/emblem-light.svg" width="50" height="50" alt="Gatsby" />
       </a>
       <br>React Query
     </td>
-   <td align="center" width="130" height="90">
-      <a href="souh">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="50" height="50" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr> 
-    <tr>
-     <td align="center" width="130" height="90"> 
-      <a href="souh" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="50" height="50" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
+     </tr> 
     <td align="center" width="130" height="90"> 
       <a href="souh" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="50" height="50" alt="Webpack" />
