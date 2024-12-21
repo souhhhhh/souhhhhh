@@ -2,16 +2,13 @@
 
 <h1 align="center">🗻Frontend Developer from Saint-Petersburg</h1>
 <p align="center">
-🔮 I use it most often:  
-<br />
+🔮 I use it most often: 
 <a href="https://www.typescriptlang.org/" target="_blank"><b>Typescript</b></a>
-<br />
 <a href="https://react.dev/" target="_blank"><b>React</b></a>
 </p>
 
 <p align="center">
 🌌 Let's talk more in  
-<br />
 <a href="https://t.me/souhhhh" target="_blank"><b>Telegram</b></a>
 </p>
 
