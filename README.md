@@ -36,12 +36,12 @@
       </a>
       <p>Redux Toolkit
     </td>
-    <td align="center" width="130" height="90">
+<!--     <td align="center" width="130" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="typescript" />
       </a>
       <p>Tailwind
-    </td>
+    </td> -->
         <td align="center" width="130" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Html5" />
