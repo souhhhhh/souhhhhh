@@ -13,7 +13,7 @@
 </p>
 
  
-<p align="center">## 🐱‍👤 Tech Stack</p>
+<h1 align="center">## 🐱‍👤 Tech Stack</p>
 
 > General
 <table width='100%'>
