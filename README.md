@@ -36,12 +36,6 @@
       </a>
       <p>Redux Toolkit
     </td>
-<!--     <td align="center" width="130" height="90">
-      <a href="#souh">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="typescript" />
-      </a>
-      <p>Tailwind
-    </td> -->
         <td align="center" width="130" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Html5" />
@@ -93,15 +87,21 @@
     </td>
      <td align="center" width="130" height="90">
       <a href="souh">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="50" height="50" alt="Material UI" />
+        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="50" height="50" alt="Material UI" />
       </a>
-      <br>MUI
+      <br>Zustand
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="#souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="typescript" />
+      </a>
+      <p>Tailwind
     </td>
    <td align="center"  width="96">
       <a href="souh">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="50" height="50" alt="Gatsby" />
+        <img src="https://github.com/TanStack/query/blob/main/media/emblem-light.svg" width="50" height="50" alt="Gatsby" />
       </a>
-      <br>Gatsby
+      <br>React Query
     </td>
    <td align="center" width="130" height="90">
       <a href="souh">
