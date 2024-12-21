@@ -18,9 +18,9 @@
 > General
 <table width='100%'>
   <tr>
-    <td align="center" width="110" height="150">
+    <td align="center" width="110" height="90">
       <a href="#souh">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="javascript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="javascript" />
       </a>
       <br>React
     </td>
