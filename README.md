@@ -50,7 +50,7 @@
     </td>
    <td align="center" width="130" height="110"> 
       <a href="#souh" >
-        <img src="[https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg)" width="36" height="36" alt="github" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="36" height="36" alt="github" />
       </a>
       <br>Next.js
    </td>  
