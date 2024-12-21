@@ -142,22 +142,65 @@
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="110">
-      <a href="#debabin-stack">
+      <a href="#souh">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="110">
-      <a href="#debabin-stack">
+      <a href="#souh">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
     </td>
         <td align="center" width="110" height="110">
-      <a href="#debabin-stack">
+      <a href="#souh">
         <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
       </a>
       <br>stylelint
+    </td>
+  </tr> 
+</table>
+
+> Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="150" height="100"> 
+      <a href="#souh" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
+      </a>
+      <br>Nest JS
+    </td>
+    <td align="center" width="150" height="100"> 
+      <a href="#souh" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="150" height="100">
+      <a href="#souh" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="150" height="100">
+      <a href="#souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="Mongo DB" />
+      </a>
+      <br>PostgreSQL
+    </td>
+     <td align="center" width="150" height="100"> 
+      <a href="#souh" >
+        <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Drizzle
+    </td>
+      <td align="center" width="150" height="100"> 
+      <a href="#souh" >
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
     </td>
   </tr> 
 </table>
