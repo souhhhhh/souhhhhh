@@ -1,8 +1,8 @@
-<h1 align="left">☄  Hello there! I'm Souh!</h1>
+<h1 align="center">☄  Hello there! I'm Souh!</h1>
 
 <h1>Frontend Developer from Saint-Petersburg</h1>
 🔮I use it most often: **[Typescript](https://www.typescriptlang.org/)**, **[React](https://react.dev/)**
-🌌Let's talk more in **[Telegram](https://t.me/siberiacancode)**
+🌌Let's talk more in **[Telegram](https://t.me/souhhhh)**
  
 ## 🚀 Tech Stack
 
