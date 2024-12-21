@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/JNiUSmS.jpeg" alt="
-      souh" align="center"/>
+      souh" align="center" height="150"/>
 <h1 align="center">🐱‍💻  Hello there! I'm Souh!</h1>
 
 <h1 align="center">🗻Frontend Developer from Saint-Petersburg</h1>
