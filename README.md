@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/a0PrtRl.jpeg" alt="
+<img src="https://i.imgur.com/mFPdJiZ.jpeg" alt="
       souh" align="center" height="350" width="100%"/>
 <h1 align="center">🐱‍💻  Hello there! I'm Souh!</h1>
 
