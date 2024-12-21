@@ -134,6 +134,12 @@
       </a>
       <br>Tailwind
     </td>
+   <td align="center" width="150" height="100">
+      <a href="souh">
+        <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="50" height="50" alt="Tailwind" />
+      </a>
+      <br>Chakra ui
+    </td>
   </tr> 
 </table>
 
