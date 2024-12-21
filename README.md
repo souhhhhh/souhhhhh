@@ -50,15 +50,15 @@
     </td>
     <td align="center" width="130" height="90">
       <a href="#souh" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="50" height="50" alt="figma" />
+        <img src="https://camo.githubusercontent.com/950851d5b52a50849458bbb85e213f3796eefa900e7c967d96a58ce067f924be/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" width="50" height="50" alt="figma" />
       </a>
-      <p>figma
+      <p>Scss
     </td>
      <td align="center" width="130" height="90"> 
       <a href="#souh" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" alt="github" />
       </a>
-      <p>github
+      <p>GitHub
     </td>
   </tr> 
 </table>
