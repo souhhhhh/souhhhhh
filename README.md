@@ -28,7 +28,7 @@
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="typescript" />
       </a>
-      <br>TypeScript
+      <h1>TypeScript
     </td>
     <td align="center" width="130" height="90">
       <a href="#souh">
