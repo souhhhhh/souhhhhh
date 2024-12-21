@@ -22,7 +22,7 @@
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="javascript" />
       </a>
-      <br>React
+      <p>React
     </td>
     <td align="center" width="130" height="90">
       <a href="#souh">
@@ -34,31 +34,31 @@
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50" alt="typescript" />
       </a>
-      <br>Redux Toolkit
+      <p>Redux Toolkit
     </td>
     <td align="center" width="130" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="typescript" />
       </a>
-      <br>Tailwind
+      <p>Tailwind
     </td>
         <td align="center" width="130" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Html5" />
       </a>
-      <br>Git
+      <p>Git
     </td>
     <td align="center" width="130" height="90">
       <a href="#souh" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="50" height="50" alt="figma" />
       </a>
-      <br>figma
+      <p>figma
     </td>
      <td align="center" width="130" height="90"> 
       <a href="#souh" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" alt="github" />
       </a>
-      <br>github
+      <p>github
     </td>
   </tr> 
 </table>
