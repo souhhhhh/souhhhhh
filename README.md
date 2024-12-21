@@ -206,6 +206,7 @@
     </td>
   </tr> 
 </table>
+
 > Testing
 
 <table width='100%'>
@@ -220,13 +221,13 @@
       <a href="#debabin-stack">
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
       </a>
-      <br>rt library
+      <br>React Testing library
     </td>
         <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       </a>
-      <br>storybook
+      <br>Storybook
     </td>
   </tr> 
 </table>
