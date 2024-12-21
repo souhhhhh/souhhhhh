@@ -1,4 +1,4 @@
-<h1 align="center">☄  Hello there! I'm Souh!</h1>
+<h1 align="center">🐱‍💻  Hello there! I'm Souh!</h1>
 
 <h1 align="center">🗻Frontend Developer from Saint-Petersburg</h1>
 <p align="center" style="font-size: 18px;">
@@ -204,3 +204,34 @@
     </td>
   </tr> 
 </table>
+
+> Other
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="150" height="100"> 
+      <a href="#souh" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" width="36" height="36" alt="Nestjs" />
+      </a>
+      <br>Axios
+    </td>
+    <td align="center" width="150" height="100"> 
+      <a href="#souh" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>React Router
+    </td>
+    <td align="center" width="150" height="100">
+      <a href="#souh" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>NPM
+    </td>
+  </tr> 
+</table>
+
+## 🐱‍🐉 Contact
+
+- ☄**[Telegram](https://t.me/souhhhh)**
+
+<br>
