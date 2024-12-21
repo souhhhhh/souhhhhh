@@ -30,6 +30,18 @@
       </a>
       <br>TypeScript
     </td>
+    <td align="center" width="130" height="90">
+      <a href="#souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50" alt="typescript" />
+      </a>
+      <br>Redux Toolkit
+    </td>
+    <td align="center" width="130" height="90">
+      <a href="#souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="typescript" />
+      </a>
+      <br>Tailwind
+    </td>
         <td align="center" width="130" height="90">
       <a href="#souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Html5" />
