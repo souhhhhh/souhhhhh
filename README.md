@@ -1,13 +1,13 @@
 <h1 align="center">☄  Hello there! I'm Souh!</h1>
 
 <h1 align="center">🗻Frontend Developer from Saint-Petersburg</h1>
-<p align="center">
+<p align="center" style="font-size: 18px;">
 🔮 I use it most often: 
 <a href="https://www.typescriptlang.org/" target="_blank"><b>Typescript</b></a>,
 <a href="https://react.dev/" target="_blank"><b>React</b></a>
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
 🌌 Let's talk more in  
 <a href="https://t.me/souhhhh" target="_blank"><b>Telegram</b></a>
 </p>
