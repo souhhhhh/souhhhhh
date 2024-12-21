@@ -206,5 +206,5 @@
 </table>
 
 ## 🐱‍🐉 Contact
-- ☄ [Telegram](https://t.me/souhhhh)
+<span style="font-size: 24px;">☄ <a href="https://t.me/souhhhh" style="font-size: 24px;">Telegram</a></span>
 <br>
