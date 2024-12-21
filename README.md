@@ -62,3 +62,85 @@
     </td>
   </tr> 
 </table>
+
+> Frontend
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="130" height="90">
+      <a href="souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+      </a>
+      <br>React
+    </td>
+     <td align="center" width="130" height="90">
+      <a href="souh" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="50" height="50" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+ <td align="center" width="130" height="90">
+      <a href="souh" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="130" height="90"> 
+      <a href="souh" >
+        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="50" height="50" alt="Mobx" />
+      </a>
+      <br>Mobx
+    </td>
+     <td align="center" width="130" height="90">
+      <a href="souh">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="50" height="50" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center"  width="96">
+      <a href="souh">
+        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="50" height="50" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
+   <td align="center" width="130" height="90">
+      <a href="souh">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="50" height="50" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr> 
+    <tr>
+     <td align="center" width="130" height="90"> 
+      <a href="souh" >
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="50" height="50" alt="Apollo" />
+      </a>
+      <br>Apollo
+    </td>
+    <td align="center" width="130" height="90"> 
+      <a href="souh" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="50" height="50" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="130" height="90"> 
+      <a href="souh" >
+        <img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+    <td align="center" width="130" height="90">
+      <a href="souh">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="50" height="50" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="130" height="90">
+      <a href="souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
+</table>
+
