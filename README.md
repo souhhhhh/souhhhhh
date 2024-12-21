@@ -20,37 +20,37 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#souh">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="javascript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="javascript" />
       </a>
       <br>React
     </td>
     <td align="center" width="110" height="90">
       <a href="#souh">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="typescript" />
       </a>
       <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
       <a href="#souh">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Html5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Html5" />
       </a>
       <br>Git
     </td>
     <td align="center" width="110" height="90">
       <a href="#souh" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="50" height="50" alt="figma" />
       </a>
       <br>figma
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#souh" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" alt="github" />
       </a>
       <br>github
     </td>
    <td align="center" width="130" height="110"> 
       <a href="#souh" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="36" height="36" alt="github" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" alt="github" />
       </a>
       <br>Next.js
    </td>  
