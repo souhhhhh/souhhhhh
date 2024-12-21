@@ -1,4 +1,4 @@
-☄  Hello there! I'm Souh!
+<h1 align="left">☄  Hello there! I'm Souh!</h1>
 
 Frontend Developer from Saint-Petersburg
 🔮I use it most often: **[Typescript](https://www.typescriptlang.org/)**, **[React](https://react.dev/)**
