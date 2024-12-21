@@ -67,11 +67,23 @@
       </a>
       <br>React
     </td>
+   <td align="center" width="130" height="90">
+      <a href="#souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="typescript" />
+      </a>
+      <p>TypeScript
+    </td>
      <td align="center" width="130" height="90">
       <a href="souh" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="50" height="50" alt="Next JS" />
       </a>
       <br>Next JS
+    </td>
+     <td align="center" width="130" height="90">
+      <a href="souh" >
+        <img src="https://camo.githubusercontent.com/02d9778d04c0ec14c520fd512e0033ab2413cbd17eee64bdff91da51b832628d/68747470733a2f2f617574686a732e6465762f696d672f6c6f676f2d736d2e706e67" width="50" height="50" alt="Next JS" />
+      </a>
+      <br>Next Auth
     </td>
  <td align="center" width="130" height="90">
       <a href="souh" >
