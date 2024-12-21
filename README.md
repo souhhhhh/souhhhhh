@@ -1,8 +1,9 @@
-# 👋  Hello there! I'm Souh!
+☄  Hello there! I'm Souh!
 
 Frontend Developer from Saint-Petersburg
 🔮I use it most often: **[Typescript](https://www.typescriptlang.org/)**, **[React](https://react.dev/)**
-
+ Let's talk more in **[Telegram](https://t.me/siberiacancode)**
+ 
 ## 🚀 Tech Stack
 
 ### 🛠️ General
