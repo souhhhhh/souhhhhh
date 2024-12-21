@@ -141,19 +141,19 @@
 
 <table width='100%'>
   <tr>
-     <td align="center" width="110" height="90">
+     <td align="center" width="150" height="100">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
       <br>eslint
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="150" height="100">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
     </td>
-        <td align="center" width="110" height="90">
+        <td align="center" width="150" height="100">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
       </a>
