@@ -20,27 +20,21 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#souh">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="javascript" />
       </a>
-      <br>javascript
+      <br>React
     </td>
     <td align="center" width="110" height="90">
       <a href="#souh">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>typescript
+      <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
       <a href="#souh">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Html5" />
       </a>
-      <br>Html5
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#souh" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      </a>
-      <br>Css3
+      <br>Git
     </td>
     <td align="center" width="110" height="90">
       <a href="#souh" >
@@ -48,35 +42,24 @@
       </a>
       <br>figma
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#souh">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>git
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#souh">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#souh">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
      <td align="center" width="110" height="90"> 
       <a href="#souh" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>github
     </td>
-    <td align="center" width="110" height="90"> 
+   <td align="center" width="110" height="90"> 
       <a href="#souh" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" width="36" height="36" alt="github" />
       </a>
-      <br>docker
-    </td>
+      <br>Next.js
+   </td>
+   <td align="center" width="110" height="90"> 
+      <a href="#souh" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" width="36" height="36" alt="github" />
+      </a>
+      <br>Next.js
+   </td>
+  
   </tr> 
 </table>
