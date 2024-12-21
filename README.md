@@ -212,19 +212,19 @@
 <table width='100%'>
   <tr>
      <td align="center" width="150" height="100"> 
-      <a href="#debabin-stack" >
+      <a href="#souh" >
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Jest
     </td>
     <td align="center" width="150" height="100"> 
-      <a href="#debabin-stack">
+      <a href="#souh">
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
       </a>
       <br>React Testing library
     </td>
         <td align="center" width="150" height="100"> 
-      <a href="#debabin-stack" >
+      <a href="#souh" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       </a>
       <br>Storybook
