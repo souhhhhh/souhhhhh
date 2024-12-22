@@ -75,6 +75,12 @@
       </a>
       <p>TypeScript
     </td>
+   <td align="center" width="150" height="100">
+      <a href="#souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="typescript" />
+      </a>
+      <p>JavaScript
+    </td>
      <td align="center" width="150" height="100">
       <a href="souh" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="50" height="50" alt="Next JS" />
