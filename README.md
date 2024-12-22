@@ -117,7 +117,48 @@
       </a>
       <br>React Query
     </td>
-   <td align="center"  width="170" height="100">
+<!--    <td align="center"  width="170" height="100">
+      <a href="souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" width="50" height="50" alt="Gatsby" />
+      </a>
+      <br>React Router
+    </td>
+     </tr> 
+    <td align="center" width="150" height="100"> 
+      <a href="souh" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="50" height="50" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="150" height="100"> 
+      <a href="souh" >
+        <img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+    <td align="center" width="150" height="100">
+      <a href="souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="150" height="100">
+      <a href="souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+         <td align="center"  width="170" height="100">
+      <a href="souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width="50" height="50" alt="Gatsby" />
+      </a>
+      <br>Axios
+    </td> -->
+</tr>
+</table>
+<table width='100%'>
+  <tr>
+       <td align="center"  width="170" height="100">
       <a href="souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" width="50" height="50" alt="Gatsby" />
       </a>
@@ -154,8 +195,9 @@
       </a>
       <br>Axios
     </td>
-</tr>
+  </tr> 
 </table>
+
 
 > Code quality
 
