@@ -113,12 +113,6 @@
     </td>
    <td align="center"  width="170" height="100">
       <a href="souh">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width="50" height="50" alt="Gatsby" />
-      </a>
-      <br>Axios
-    </td>
-   <td align="center"  width="170" height="100">
-      <a href="souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" width="50" height="50" alt="Gatsby" />
       </a>
       <br>React Router
@@ -147,6 +141,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+         <td align="center"  width="170" height="100">
+      <a href="souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width="50" height="50" alt="Gatsby" />
+      </a>
+      <br>Axios
     </td>
 </tr>
 </table>
