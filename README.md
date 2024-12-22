@@ -111,6 +111,12 @@
       </a>
       <br>React Query
     </td>
+   <td align="center"  width="150" height="100">
+      <a href="souh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" width="50" height="50" alt="Gatsby" />
+      </a>
+      <br>Axios
+    </td>
    <td align="center"  width="170" height="100">
       <a href="souh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" width="50" height="50" alt="Gatsby" />
