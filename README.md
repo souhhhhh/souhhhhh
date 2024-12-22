@@ -1,6 +1,3 @@
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 <img src="https://i.imgur.com/mFPdJiZ.jpeg" alt="
       souh" align="center" height="350" width="100%"/>
 <h1 align="center">🐱‍💻  Hello there! I'm Souh!</h1>
