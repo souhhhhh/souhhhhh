@@ -1,4 +1,4 @@
-<img src="https://ibb.co/jZ8HsBhZ" alt="
+<img src="https://i.ibb.co/NnF7bQxn/griffith-castle-berserk-manga-hd-wallpaper-preview.jpg" alt="
       souh" align="center" height="350" width="100%"/>
 <h1 align="center">🐱‍💻  Hello there! I'm Souh!</h1>
 
